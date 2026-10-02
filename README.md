@@ -22,7 +22,6 @@
 ### 📈 GitHub Profile Stats
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ammar1108&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar1108&layout=compact&theme=dark&hide_border=true" />
 </p>
 
