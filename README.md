@@ -31,3 +31,4 @@
 
 - **Languages:** English, Urdu, Mandarin Chinese (HSK 3)
 - **GitHub:** [@ammar1108](https://github.com/ammar1108)
+- [![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-10B981?style=for-the-badge&logoColor=white)](https://ammardev-mu.vercel.app)
